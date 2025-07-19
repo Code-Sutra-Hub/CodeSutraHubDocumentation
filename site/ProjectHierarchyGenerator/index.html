@@ -53,7 +53,21 @@
 
 
   <li class="navtree toctree-l1 inactive">
+    <a class="" href="../Getting Started with CodeSutraHub">None</a>
+  </li>
+    
+      
+
+
+  <li class="navtree toctree-l1 inactive">
     <a class="" href="..">Home</a>
+  </li>
+    
+      
+
+
+  <li class="navtree toctree-l1 inactive">
+    <a class="" href="../Tools">None</a>
   </li>
     
       
@@ -109,39 +123,9 @@
         </li>
     
       
-          
-
-  <li class="toctree-l2">
-    <a href="#how-to-use-it">
-      How to use it
-      <span class="toctree-expand"></span>
-    </a>
-  </li>
-
-
-
-  <li class="toctree-l2">
-    <ul class="subnav-l2 toc-hidden">
-    
-      
-        <li class="toctree-l3">
-          <a class="toctree-l4" href="#steps-to-create-hierarchy">Steps to create hierarchy</a>
+        <li class="toctree-l2">
+          <a class="toctree-l3" href="#how-to-use-it">How to use it</a>
         </li>
-    
-      
-        <li class="toctree-l3">
-          <a class="toctree-l4" href="#steps-to-modify-hierarchy">Steps to modify hierarchy</a>
-        </li>
-    
-      
-        <li class="toctree-l3">
-          <a class="toctree-l4" href="#location-to-change-drive-path">Location to change drive path</a>
-        </li>
-    
-    </ul>
-  </li>
-
-      
     
       
         <li class="toctree-l2">
@@ -225,23 +209,17 @@
 </ul>
 <hr />
 <h2 id="how-to-use-it">How to use it</h2>
-<h4 id="steps-to-create-hierarchy">Steps to create hierarchy</h4>
-<ul>
-<li>Copy <code>project_hierarchy.bat</code> to the new shared drive created in your google workspace</li>
-<li>Then double click on that .bat file and it will create all the project folders for you</li>
-</ul>
-<h4 id="steps-to-modify-hierarchy">Steps to modify hierarchy</h4>
-<ul>
-<li>If you want to change anything in hierarchy just update <code>project_hierarchy.json</code> for main folders.</li>
-<li>And for each asset and shot hierarchy we need to modify <code>assets_hierarchy.json</code> and <code>shots_hierarchy.json</code> respectively.</li>
-<li>Those json files are preety straight forward for root folder just change the root key value, for main folder change name key value and for subfolders change the name inside subfolder list.</li>
-<li>We can also add copy_files keys if we want to copy some basic files by default to any folder created.</li>
-</ul>
-<h4 id="location-to-change-drive-path">Location to change drive path</h4>
-<ul>
-<li>All <code>assets_hierarchy.bat, shots_hierarchy.bat, sequence_hierarchy.bat and project_hierarchy.bat</code> files have 2 location to change.</li>
-<li>First is project root and second is file path either powershell or cs exe.</li>
-</ul>
+<p><strong>Steps to create hierarchy</strong>
+- Copy <code>project_hierarchy.bat</code> to the new shared drive created in your google workspace
+- Then double click on that .bat file and it will create all the project folders for you
+<strong>Steps to modify hierarchy</strong>
+- If you want to change anything in hierarchy just update <code>project_hierarchy.json</code> for main folders.
+- And for each asset and shot hierarchy we need to modify <code>assets_hierarchy.json</code> and <code>shots_hierarchy.json</code> respectively.
+- Those json files are preety straight forward for root folder just change the root key value, for main folder change name key value and for subfolders change the name inside subfolder list.
+- We can also add copy_files keys if we want to copy some basic files by default to any folder created.
+<strong>Location to change drive path</strong>
+- All <code>assets_hierarchy.bat, shots_hierarchy.bat, sequence_hierarchy.bat and project_hierarchy.bat</code> files have 2 location to change.
+- First is project root and second is file path either powershell or cs exe.</p>
 <hr />
 <h2 id="licensing">🔐 Licensing</h2>
 <p>This tool is commercially licensed:</p>

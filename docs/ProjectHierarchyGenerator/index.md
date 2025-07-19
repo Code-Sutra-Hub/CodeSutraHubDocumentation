@@ -33,17 +33,16 @@
 ---
 
 ## How to use it
-#### Steps to create hierarchy
+
+**Steps to create hierarchy**
 - Copy `project_hierarchy.bat` to the new shared drive created in your google workspace
 - Then double click on that .bat file and it will create all the project folders for you
-
-#### Steps to modify hierarchy
+**Steps to modify hierarchy**
 - If you want to change anything in hierarchy just update `project_hierarchy.json` for main folders.
 - And for each asset and shot hierarchy we need to modify `assets_hierarchy.json` and `shots_hierarchy.json` respectively.
 - Those json files are preety straight forward for root folder just change the root key value, for main folder change name key value and for subfolders change the name inside subfolder list.
 - We can also add copy_files keys if we want to copy some basic files by default to any folder created.
-
-#### Location to change drive path
+**Location to change drive path**
 - All `assets_hierarchy.bat, shots_hierarchy.bat, sequence_hierarchy.bat and project_hierarchy.bat` files have 2 location to change.
 - First is project root and second is file path either powershell or cs exe.
 

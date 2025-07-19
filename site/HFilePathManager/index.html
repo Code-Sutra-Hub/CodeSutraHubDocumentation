@@ -53,7 +53,21 @@
 
 
   <li class="navtree toctree-l1 inactive">
+    <a class="" href="../Getting Started with CodeSutraHub">None</a>
+  </li>
+    
+      
+
+
+  <li class="navtree toctree-l1 inactive">
     <a class="" href="..">Home</a>
+  </li>
+    
+      
+
+
+  <li class="navtree toctree-l1 inactive">
+    <a class="" href="../Tools">None</a>
   </li>
     
       
@@ -92,34 +106,9 @@
         </li>
     
       
-          
-
-  <li class="toctree-l2">
-    <a href="#installation">
-      📦 Installation
-      <span class="toctree-expand"></span>
-    </a>
-  </li>
-
-
-
-  <li class="toctree-l2">
-    <ul class="subnav-l2 toc-hidden">
-    
-      
-        <li class="toctree-l3">
-          <a class="toctree-l4" href="#1-houdini-packages-setup">1. Houdini Packages Setup</a>
+        <li class="toctree-l2">
+          <a class="toctree-l3" href="#installation">📦 Installation</a>
         </li>
-    
-      
-        <li class="toctree-l3">
-          <a class="toctree-l4" href="#2-launch-the-tool">2. Launch the Tool</a>
-        </li>
-    
-    </ul>
-  </li>
-
-      
     
       
         <li class="toctree-l2">
@@ -194,7 +183,7 @@
             <div class="section">
               
                 <h1 id="houdini-filepath-manager">🎯 Houdini FilePath Manager</h1>
-<p>A powerful and extensible <strong>file path auditing and management tool</strong> for Houdini artists and technical directors.<br />
+<p>A powerful and extensible <strong>file path auditing and management tool</strong> for Houdini artists and technical directors. 
 This tool helps you organize, verify, and archive all external file references in a Houdini project with ease.</p>
 <hr />
 <h2 id="key-features">✨ Key Features</h2>
@@ -202,47 +191,23 @@ This tool helps you organize, verify, and archive all external file references i
 <li>🔍 <strong>File Path Discovery</strong></li>
 <li>Automatically scans and lists all file paths across the current Houdini session.</li>
 <li>Detects paths in SOPs, LOPs, CHOPs, OBJs, ROPs, and other contexts.</li>
-<li>
-<p>Identifies whether a file path is a <strong>single frame</strong> or a <strong>sequence</strong> using expression analysis (<code>$F</code>, <code>$F4</code>, etc.).</p>
-</li>
-<li>
-<p>📂 <strong>Open File Location</strong></p>
-</li>
-<li>
-<p>Instantly open the folder containing any file with a single click.</p>
-</li>
-<li>
-<p>🧭 <strong>Select Node in Houdini</strong></p>
-</li>
-<li>
-<p>Automatically select and focus on the node that owns the file path.</p>
-</li>
-<li>
-<p>🗂 <strong>Export Selected Paths</strong></p>
-</li>
-<li>
-<p>Export selected file path data to a clean <code>.json</code> file with full metadata.</p>
-</li>
-<li>
-<p>📦 <strong>Archive Houdini Project</strong></p>
-</li>
+<li>Identifies whether a file path is a <strong>single frame</strong> or a <strong>sequence</strong> using expression analysis (<code>$F</code>, <code>$F4</code>, etc.).</li>
+<li>📂 <strong>Open File Location</strong></li>
+<li>Instantly open the folder containing any file with a single click.</li>
+<li>🧭 <strong>Select Node in Houdini</strong></li>
+<li>Automatically select and focus on the node that owns the file path.</li>
+<li>🗂 <strong>Export Selected Paths</strong></li>
+<li>Export selected file path data to a clean <code>.json</code> file with full metadata.</li>
+<li>📦 <strong>Archive Houdini Project</strong></li>
 <li>Copy all selected external files to a new structured folder.</li>
 <li>Organizes by file type (<code>Geometry</code>, <code>Texture</code>, <code>Volume</code>, etc.).</li>
 <li>Automatically relinks file paths in Houdini to the archived location.</li>
-<li>
-<p>Saves a new <code>.hip</code> file with updated paths.</p>
-</li>
-<li>
-<p>🔎 <strong>Advanced Filtering</strong></p>
-</li>
+<li>Saves a new <code>.hip</code> file with updated paths.</li>
+<li>🔎 <strong>Advanced Filtering</strong></li>
 <li>Filter by file type (Geometry, Texture, Volume, etc.)</li>
 <li>Search paths using text input</li>
-<li>
-<p>Show/hide paths with missing files (<code>N/A</code>)</p>
-</li>
-<li>
-<p>💾 <strong>Detailed File Metadata</strong></p>
-</li>
+<li>Show/hide paths with missing files (<code>N/A</code>)</li>
+<li>💾 <strong>Detailed File Metadata</strong></li>
 <li>Shows <strong>individual file sizes</strong></li>
 <li>Displays <strong>total size</strong> of all selected files</li>
 <li>Highlights missing or unreadable files in red</li>
@@ -255,26 +220,22 @@ This tool helps you organize, verify, and archive all external file references i
 <p><strong>Video Demonstration</strong></p>
 <hr />
 <h2 id="installation">📦 Installation</h2>
-<h3 id="1-houdini-packages-setup">1. Houdini Packages Setup</h3>
 <ol>
+<li>Houdini Packages Setup</li>
 <li>Replace DIR_PATH key-value <code>path/to/source/folder</code> with current path of this repo in explorer inside <code>HFilePathManager_tool.json</code> file.</li>
-<li>
-<p>Copy the <code>HFilePathManager_tool.json</code> package file inside the same houdini's <code>packages/</code> directory.:</p>
-<ul>
+<li>Copy the <code>HFilePathManager_tool.json</code> package file inside the same houdini's <code>packages/</code> directory.:<ul>
 <li>On Windows:<br />
 <code>C:/Users/&lt;YourName&gt;/Documents/houdiniXX.X/packages/</code></li>
 <li>On Linux:
  <code>/home/&lt;YourName&gt;/houdiniXX.X/packages/</code></li>
 </ul>
 </li>
-</ol>
-<h3 id="2-launch-the-tool">2. Launch the Tool</h3>
-<ul>
+<li>Launch the Tool</li>
 <li>Launch Houdini</li>
 <li>Go to <code>Windows</code> → <code>Python Panel</code></li>
 <li>Click on <code>File Path Manager</code></li>
 <li>If all goes well it will show you the panel.</li>
-</ul>
+</ol>
 <hr />
 <h2 id="licensing">🔐 Licensing</h2>
 <p>This tool is commercially licensed:</p>
