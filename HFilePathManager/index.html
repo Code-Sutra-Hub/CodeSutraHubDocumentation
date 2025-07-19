@@ -11,7 +11,7 @@
     <link rel="shortcut icon" href="../img/favicon.ico">
 
     
-    <title>🎯 Houdini FilePath Manager - CodeSutraHub Documentation</title>
+    <title>HFilePathManager - CodeSutraHub Documentation</title>
     
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css">
@@ -75,62 +75,20 @@
                 
                 
                 
-                    <li class="dropdown">
+                    <li class="dropdown active">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tools <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                         
                             
-  <li class="dropdown-submenu">
-    <a tabindex="-1" href="">HFilePathManager</a>
-    <ul class="dropdown-menu">
-        
-            
-<li >
-    <a href="overview.md">Overview</a>
+<li class="active">
+    <a href="./">HFilePathManager</a>
 </li>
-
-        
-            
-<li >
-    <a href="install/">Installation</a>
-</li>
-
-        
-            
-<li >
-    <a href="showcase/">Showcase</a>
-</li>
-
-        
-    </ul>
-  </li>
 
                         
                             
-  <li class="dropdown-submenu">
-    <a tabindex="-1" href="">HPanelToolbox</a>
-    <ul class="dropdown-menu">
-        
-            
 <li >
-    <a href="../HPanelToolbox/overview.md">Overview</a>
+    <a href="../HPanelToolbox/">HPanelToolbox</a>
 </li>
-
-        
-            
-<li >
-    <a href="../HPanelToolbox/install/">Installation</a>
-</li>
-
-        
-            
-<li >
-    <a href="../HPanelToolbox/showcase/">Showcase</a>
-</li>
-
-        
-    </ul>
-  </li>
 
                         
                         </ul>
@@ -151,6 +109,16 @@
                             <i class="fas fa-search"></i> Search
                         </a>
                     </li>
+                    <li >
+                        <a rel="prev" href="..">
+                            <i class="fas fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="next" href="../HPanelToolbox/">
+                            Next <i class="fas fa-arrow-right"></i>
+                        </a>
+                    </li>
             </ul>
         </div>
     </div>
@@ -164,6 +132,12 @@
         <li class="first-level active"><a href="#houdini-filepath-manager">🎯 Houdini FilePath Manager</a></li>
             <li class="second-level"><a href="#key-features">✨ Key Features</a></li>
                 
+            <li class="second-level"><a href="#quick-look-screenshots-video-links">📸 Quick look Screenshots / Video links</a></li>
+                
+            <li class="second-level"><a href="#installation">📦 Installation</a></li>
+                
+                <li class="third-level"><a href="#1-houdini-packages-setup">1. Houdini Packages Setup</a></li>
+                <li class="third-level"><a href="#2-launch-the-tool">2. Launch the Tool</a></li>
             <li class="second-level"><a href="#licensing">🔐 Licensing</a></li>
                 
             <li class="second-level"><a href="#internals-for-license-holders">🧠 Internals (for License Holders)</a></li>
@@ -230,6 +204,33 @@ This tool helps you organize, verify, and archive all external file references i
 <li>Displays <strong>total size</strong> of all selected files</li>
 <li>Highlights missing or unreadable files in red</li>
 <li>Includes source context (e.g., <code>SOP</code>, <code>ROP</code>, <code>LOP</code>, etc.)</li>
+</ul>
+<hr />
+<h2 id="quick-look-screenshots-video-links">📸 Quick look Screenshots / Video links</h2>
+<p><img alt="alt text" src="resources/hfile_path_manager_panel_01.jpg" /></p>
+<p><img alt="alt text" src="resources/hfile_path_manager_panel_02.jpg" /></p>
+<p><strong>Video Demonstration</strong></p>
+<hr />
+<h2 id="installation">📦 Installation</h2>
+<h3 id="1-houdini-packages-setup">1. Houdini Packages Setup</h3>
+<ol>
+<li>Replace DIR_PATH key-value <code>path/to/source/folder</code> with current path of this repo in explorer inside <code>HFilePathManager_tool.json</code> file.</li>
+<li>
+<p>Copy the <code>HFilePathManager_tool.json</code> package file inside the same houdini's <code>packages/</code> directory.:</p>
+<ul>
+<li>On Windows:<br />
+<code>C:/Users/&lt;YourName&gt;/Documents/houdiniXX.X/packages/</code></li>
+<li>On Linux:
+ <code>/home/&lt;YourName&gt;/houdiniXX.X/packages/</code></li>
+</ul>
+</li>
+</ol>
+<h3 id="2-launch-the-tool">2. Launch the Tool</h3>
+<ul>
+<li>Launch Houdini</li>
+<li>Go to <code>Windows</code> → <code>Python Panel</code></li>
+<li>Click on <code>File Path Manager</code></li>
+<li>If all goes well it will show you the panel.</li>
 </ul>
 <hr />
 <h2 id="licensing">🔐 Licensing</h2>
