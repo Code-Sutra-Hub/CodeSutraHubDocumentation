@@ -1,5 +1,3 @@
-# ProjectHierarchyGenerator
-
 **ProjectHierarchyGenerator** is a simple, customizable folder structure generator designed for **freelancers** and **small studios** to help maintain a clean, consistent, and uniform project hierarchy — all with a single click. It handles all Assets, sequences and shots hierarchy internally.
 
 ## 🚀 Features

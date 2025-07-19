@@ -2,10 +2,9 @@ site_name: CodeSutraHub Documentation
 theme:
   name: rtd-dropdown
 nav:
-  - Getting Started:
-    - Home: index.md
+  - Getting Started: index.md
   - Tools:
-    - HFilePathManager: HFilePathManager/index.md
-    - HPanelToolbox: HPanelToolBox/index.md
-    - ProjectHierarchyGenerator: ProjectHierarchyGenerator/index.md
+    - Houdini FilePath Manager: HFilePathManager/index.md
+    - Houdini Panel ToolBox: HPanelToolBox/index.md
+    - Project Hierarchy Generator: ProjectHierarchyGenerator/index.md
   # - About: about.md
