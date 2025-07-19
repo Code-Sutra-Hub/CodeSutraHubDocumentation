@@ -4,12 +4,6 @@ theme:
 nav:
   - Home: index.md
   - Tools:
-    - HFilePathManager:
-        - Overview: HFilePathManager/overview.md
-        - Installation: HFilePathManager/install.md
-        - Showcase: HFilePathManager/showcase.md
-    - HPanelToolbox:
-        - Overview: HPanelToolbox/overview.md
-        - Installation: HPanelToolbox/install.md
-        - Showcase: HPanelToolbox/showcase.md
+    - HFilePathManager: HFilePathManager/index.md
+    - HPanelToolbox: HPanelToolbox/index.md
   - About: about.md
