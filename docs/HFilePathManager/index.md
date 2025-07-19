@@ -80,8 +80,6 @@ This tool is commercially licensed:
 | 🔓 Full License      | Source Code   | Lifetime | One-time purchase             |
 | 🔐 Encrypted License | Encrypted UI  | 1 Year   | Requires renewal to continue  |
 
-🔒 See [LICENSE.md](LICENSE.md) for full terms.
-
 Contact for pricing or enterprise licensing:  
 📧 **codesutrahub@gmail.com**
 

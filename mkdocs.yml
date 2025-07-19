@@ -6,4 +6,5 @@ nav:
   - Tools:
     - HFilePathManager: HFilePathManager/index.md
     - HPanelToolbox: HPanelToolbox/index.md
+    - ProjectHierarchyGenerator: ProjectHierarchyGenerator/index.md
   - About: about.md
