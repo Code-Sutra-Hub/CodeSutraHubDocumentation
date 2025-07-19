@@ -6,29 +6,29 @@ This tool helps you organize, verify, and archive all external file references i
 ## ✨ Key Features
 
 - 🔍 File Path Discovery
-  - Automatically scans and lists all file paths across the current Houdini session.
-  - Detects paths in SOPs, LOPs, CHOPs, OBJs, ROPs, and other contexts.
-  - Identifies whether a file path is a **single frame** or a **sequence** using expression analysis (`$F`, `$F4`, etc.).
+    - Automatically scans and lists all file paths across the current Houdini session.
+    - Detects paths in SOPs, LOPs, CHOPs, OBJs, ROPs, and other contexts.
+    - Identifies whether a file path is a **single frame** or a **sequence** using expression analysis (`$F`, `$F4`, etc.).
 - 📂 Open File Location
-  - Instantly open the folder containing any file with a single click.
+    - Instantly open the folder containing any file with a single click.
 - 🧭 Select Node in Houdini
-  - Automatically select and focus on the node that owns the file path.
+    - Automatically select and focus on the node that owns the file path.
 - 🗂 Export Selected Paths
-  - Export selected file path data to a clean `.json` file with full metadata.
+    - Export selected file path data to a clean `.json` file with full metadata.
 - 📦 Archive Houdini Project
-  - Copy all selected external files to a new structured folder.
-  - Organizes by file type (`Geometry`, `Texture`, `Volume`, etc.).
-  - Automatically relinks file paths in Houdini to the archived location.
-  - Saves a new `.hip` file with updated paths.
+    - Copy all selected external files to a new structured folder.
+    - Organizes by file type (`Geometry`, `Texture`, `Volume`, etc.).
+    - Automatically relinks file paths in Houdini to the archived location.
+    - Saves a new `.hip` file with updated paths.
 - 🔎 Advanced Filtering
-  - Filter by file type (Geometry, Texture, Volume, etc.)
-  - Search paths using text input
-  - Show/hide paths with missing files (`N/A`)
+    - Filter by file type (Geometry, Texture, Volume, etc.)
+    - Search paths using text input
+    - Show/hide paths with missing files (`N/A`)
 - 💾 Detailed File Metadata
-  - Shows **individual file sizes**
-  - Displays **total size** of all selected files
-  - Highlights missing or unreadable files in red
-  - Includes source context (e.g., `SOP`, `ROP`, `LOP`, etc.)
+    - Shows **individual file sizes**
+    - Displays **total size** of all selected files
+    - Highlights missing or unreadable files in red
+    - Includes source context (e.g., `SOP`, `ROP`, `LOP`, etc.)
 
 ---
 
@@ -45,17 +45,17 @@ This tool helps you organize, verify, and archive all external file references i
 ## 📦 Installation
 
 1. Houdini Packages Setup
-  - Replace DIR_PATH key-value `path/to/source/folder` with current path of this repo in explorer inside `HFilePathManager_tool.json` file.
-  - Copy the `HFilePathManager_tool.json` package file inside the same houdini's `packages/` directory.:
-    - On Windows:  
-     `C:/Users/<YourName>/Documents/houdiniXX.X/packages/`
-    - On Linux:
-     `/home/<YourName>/houdiniXX.X/packages/`
+    - Replace DIR_PATH key-value `path/to/source/folder` with current path of this repo in explorer inside `HFilePathManager_tool.json` file.
+    - Copy the `HFilePathManager_tool.json` package file inside the same houdini's `packages/` directory.:
+      - On Windows:  
+        `C:/Users/<YourName>/Documents/houdiniXX.X/packages/`
+      - On Linux:
+        `/home/<YourName>/houdiniXX.X/packages/`
 2. Launch the Tool
-  - Launch Houdini
-  - Go to `Windows` → `Python Panel`
-  - Click on `File Path Manager`
-  - If all goes well it will show you the panel.
+    - Launch Houdini
+    - Go to `Windows` → `Python Panel`
+    - Click on `File Path Manager`
+    - If all goes well it will show you the panel.
 
 ---
 

@@ -1,4 +1,4 @@
-# Welcome to Code Sutra Hub
+## Welcome to Code Sutra Hub
 Welcome to **CodeSutraHub** — the fusion point for smart tool development, intelligent workflow automation, API-driven solutions, and AI-powered engineering.
 
 ## 🚀 About CodeSutraHub

@@ -217,30 +217,44 @@ This tool helps you organize, verify, and archive all external file references i
 <hr />
 <h2 id="key-features">✨ Key Features</h2>
 <ul>
-<li>🔍 File Path Discovery</li>
+<li>🔍 File Path Discovery<ul>
 <li>Automatically scans and lists all file paths across the current Houdini session.</li>
 <li>Detects paths in SOPs, LOPs, CHOPs, OBJs, ROPs, and other contexts.</li>
 <li>Identifies whether a file path is a <strong>single frame</strong> or a <strong>sequence</strong> using expression analysis (<code>$F</code>, <code>$F4</code>, etc.).</li>
-<li>📂 Open File Location</li>
+</ul>
+</li>
+<li>📂 Open File Location<ul>
 <li>Instantly open the folder containing any file with a single click.</li>
-<li>🧭 Select Node in Houdini</li>
+</ul>
+</li>
+<li>🧭 Select Node in Houdini<ul>
 <li>Automatically select and focus on the node that owns the file path.</li>
-<li>🗂 Export Selected Paths</li>
+</ul>
+</li>
+<li>🗂 Export Selected Paths<ul>
 <li>Export selected file path data to a clean <code>.json</code> file with full metadata.</li>
-<li>📦 Archive Houdini Project</li>
+</ul>
+</li>
+<li>📦 Archive Houdini Project<ul>
 <li>Copy all selected external files to a new structured folder.</li>
 <li>Organizes by file type (<code>Geometry</code>, <code>Texture</code>, <code>Volume</code>, etc.).</li>
 <li>Automatically relinks file paths in Houdini to the archived location.</li>
 <li>Saves a new <code>.hip</code> file with updated paths.</li>
-<li>🔎 Advanced Filtering</li>
+</ul>
+</li>
+<li>🔎 Advanced Filtering<ul>
 <li>Filter by file type (Geometry, Texture, Volume, etc.)</li>
 <li>Search paths using text input</li>
 <li>Show/hide paths with missing files (<code>N/A</code>)</li>
-<li>💾 Detailed File Metadata</li>
+</ul>
+</li>
+<li>💾 Detailed File Metadata<ul>
 <li>Shows <strong>individual file sizes</strong></li>
 <li>Displays <strong>total size</strong> of all selected files</li>
 <li>Highlights missing or unreadable files in red</li>
 <li>Includes source context (e.g., <code>SOP</code>, <code>ROP</code>, <code>LOP</code>, etc.)</li>
+</ul>
+</li>
 </ul>
 <hr />
 <h2 id="screenshots-video-links">📸 Screenshots / Video links</h2>
@@ -250,20 +264,22 @@ This tool helps you organize, verify, and archive all external file references i
 <hr />
 <h2 id="installation">📦 Installation</h2>
 <ol>
-<li>Houdini Packages Setup</li>
+<li>Houdini Packages Setup<ul>
 <li>Replace DIR_PATH key-value <code>path/to/source/folder</code> with current path of this repo in explorer inside <code>HFilePathManager_tool.json</code> file.</li>
-<li>Copy the <code>HFilePathManager_tool.json</code> package file inside the same houdini's <code>packages/</code> directory.:<ul>
+<li>Copy the <code>HFilePathManager_tool.json</code> package file inside the same houdini's <code>packages/</code> directory.:</li>
 <li>On Windows:<br />
 <code>C:/Users/&lt;YourName&gt;/Documents/houdiniXX.X/packages/</code></li>
 <li>On Linux:
- <code>/home/&lt;YourName&gt;/houdiniXX.X/packages/</code></li>
+    <code>/home/&lt;YourName&gt;/houdiniXX.X/packages/</code></li>
 </ul>
 </li>
-<li>Launch the Tool</li>
+<li>Launch the Tool<ul>
 <li>Launch Houdini</li>
 <li>Go to <code>Windows</code> → <code>Python Panel</code></li>
 <li>Click on <code>File Path Manager</code></li>
 <li>If all goes well it will show you the panel.</li>
+</ul>
+</li>
 </ol>
 <hr />
 <h2 id="licensing">🔐 Licensing</h2>
