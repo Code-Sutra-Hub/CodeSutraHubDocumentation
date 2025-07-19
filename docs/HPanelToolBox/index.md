@@ -1,4 +1,4 @@
-# HPanelToolbox
+# Houdini Panel ToolBox
 
 **HPanelToolBox** is a modular, customizable Houdini panel built with PySide2. It offers reusable group boxes that streamline artist workflows by integrating template loading, tool execution, and more custom UI utilities into a single panel.
 

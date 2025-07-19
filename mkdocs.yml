@@ -3,8 +3,7 @@ theme:
   name: rtd-dropdown
 nav:
   - Home: index.md
-  - Tools:
-    - HFilePathManager: HFilePathManager/index.md
-    - HPanelToolbox: HPanelToolbox/index.md
-    - ProjectHierarchyGenerator: ProjectHierarchyGenerator/index.md
+  - HFilePathManager: HFilePathManager/index.md
+  - HPanelToolbox: HPanelToolBox/index.md
+  - ProjectHierarchyGenerator: ProjectHierarchyGenerator/index.md
   - About: about.md
