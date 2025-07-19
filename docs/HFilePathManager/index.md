@@ -40,11 +40,11 @@ This tool helps you organize, verify, and archive all external file references i
 
 ---
 
-## 📸 Quick look Screenshots / Video links
+## 📸 Screenshots / Video links
 
-![alt text](resources/hfile_path_manager_panel_01.jpg)
+![alt text](resources/hfile_path_manager_01.jpg)
 
-![alt text](resources/hfile_path_manager_panel_02.jpg)
+![alt text](resources/hfile_path_manager_02.jpg)
 
 **Video Demonstration**
 

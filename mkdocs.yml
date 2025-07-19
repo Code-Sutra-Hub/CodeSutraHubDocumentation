@@ -1,6 +1,6 @@
 site_name: CodeSutraHub Documentation
 theme:
-  name: cinder
+  name: rtd-dropdown
 nav:
   - Home: index.md
   - Tools:
