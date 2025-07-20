@@ -5,26 +5,26 @@ This tool helps you organize, verify, and archive all external file references i
 
 ## ✨ Key Features
 
-- 🔍 File Path Discovery
+- 🔍 **File Path Discovery**
     - Automatically scans and lists all file paths across the current Houdini session.
     - Detects paths in SOPs, LOPs, CHOPs, OBJs, ROPs, and other contexts.
     - Identifies whether a file path is a **single frame** or a **sequence** using expression analysis (`$F`, `$F4`, etc.).
-- 📂 Open File Location
+- 📂 **Open File Location**
     - Instantly open the folder containing any file with a single click.
-- 🧭 Select Node in Houdini
+- 🧭 **Select Node in Houdini**
     - Automatically select and focus on the node that owns the file path.
-- 🗂 Export Selected Paths
+- 🗂 **Export Selected Paths**
     - Export selected file path data to a clean `.json` file with full metadata.
-- 📦 Archive Houdini Project
+- 📦 **Archive Houdini Project**
     - Copy all selected external files to a new structured folder.
     - Organizes by file type (`Geometry`, `Texture`, `Volume`, etc.).
     - Automatically relinks file paths in Houdini to the archived location.
     - Saves a new `.hip` file with updated paths.
-- 🔎 Advanced Filtering
+- 🔎 **Advanced Filtering**
     - Filter by file type (Geometry, Texture, Volume, etc.)
     - Search paths using text input
     - Show/hide paths with missing files (`N/A`)
-- 💾 Detailed File Metadata
+- 💾 **Detailed File Metadata**
     - Shows **individual file sizes**
     - Displays **total size** of all selected files
     - Highlights missing or unreadable files in red
@@ -69,7 +69,7 @@ This tool is commercially licensed:
 | 🔐 Encrypted License | Encrypted UI  | 1 Year   | Requires renewal to continue  |
 
 Contact for pricing or enterprise licensing:  
-📧 **codesutrahub@gmail.com**
+📧 **codiflowsystems@gmail.com**
 
 ---
 
@@ -86,7 +86,7 @@ Contact for pricing or enterprise licensing:
 ## 🙋 Contact & Demo Access
 
 Interested in testing the tool or viewing source?  
-📧 Reach out to: **codesutrahub@gmail.com**
+📧 Reach out to: **codiflowsystems@gmail.com**
 
 ---
 

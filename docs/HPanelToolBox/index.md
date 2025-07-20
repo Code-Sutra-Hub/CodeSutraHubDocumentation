@@ -4,7 +4,7 @@ Designed for flexibility and future upgrades, this panel can be extended with ne
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
 - 🧠 **Template Loaders**
     - **Auto-Generated Names** – Reads template files and generates dropdowns.
@@ -62,14 +62,14 @@ This tool is commercially licensed:
 | 🔓 Customized group  | Source Code  | Lifetime | One-time purchase             |
 
 Contact for pricing or enterprise licensing:  
-📧 **codesutrahub@gmail.com**
+📧 **codiflowsystems@gmail.com**
 
 ---
 
 ## 🙋 Contact & Demo Access
 
 Interested in testing the tool or viewing source?  
-📧 Reach out to: **codesutrahub@gmail.com**
+📧 Reach out to: **codiflowsystems@gmail.com**
 
 ---
 

@@ -56,14 +56,14 @@ This tool is commercially licensed:
 | 🔐 Encrypted License | Encrypted   | Lifetime | One-time purchase             |
 
 Contact for pricing or enterprise licensing:  
-📧 **pipelineyantrlabs@gmail.com**
+📧 **codiflowsystems@gmail.com**
 
 ---
 
 ## 🙋 Contact & Demo Access
 
 Interested in testing the tool or viewing source?  
-📧 Reach out to: **pipelineyantrlabs@gmail.com**
+📧 Reach out to: **codiflowsystems@gmail.com**
 
 ---
 

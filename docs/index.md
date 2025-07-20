@@ -1,22 +1,25 @@
-## Welcome to Code Sutra Hub
-Welcome to **CodeSutraHub** — the fusion point for smart tool development, intelligent workflow automation, API-driven solutions, and AI-powered engineering.
+## Codi Flow Systems
 
-## 🚀 About CodeSutraHub
-CodeSutraHub is dedicated to accelerating digital innovation by building smart tools, automating complex workflows, and integrating AI and APIs for seamless software pipelines. Inspired by the Sanskrit word sutra—the thread of logic—we unite foundational clarity with cutting-edge technology, empowering developers and product teams to build, scale, and automate at the next level.
+Welcome to **CodiFlowSystems**, where we specialize in creating intelligent, tailor-made solutions currently for the Animation, VFX, and IT industries. We are your dedicated partner in tool development, pipeline automation, and software tool-dev API, transforming complex challenges into seamless, elegant workflows. By blending creative problem-solving with deep technical expertise, we build the systems and integrations you need to innovate faster and achieve operational excellence.
 
 ## 🌟 Our Mission
 To develop smart, future-ready tools by:
-- Automating every stage of the workflow lifecycle
-- Leveraging software APIs for scalable solutions
-- Integrating artificial intelligence into mission-critical pipelines
-- Delivering practical frameworks that boost productivity and innovation
+- Empower creative and technical teams by delivering tailor-made tools and intelligent workflow automation.
+- Leveraging software APIs for scalable solutions / tool development
+- Solve unique challenges with elegant, scalable, and reliable technology solutions.
+- Enhance productivity in Animation, VFX, and IT industries through cutting-edge automation.
+- Lead with creativity and technical excellence to transform complex processes into simple, impactful workflows.
 
 ## 💡 What We Do
-- **Tool Development**: Building reusable tools and frameworks for smarter engineering workflows
+- **Tool Development**: Building reusable tools and frameworks for smarter workflows
 - **Automated Workflows**: Designing and deploying automated processes to eliminate repetitive tasks
-- **API Integrations**: Connecting software products and services for end-to-end solutions
-- **AI in Pipelines and workdlows**: Embedding AI models and automation into scalable software pipelines
+- **Software tool-dev using APIs**: Connecting software products and services for end-to-end solutions
+- **Creative + Technical Problem-Solving**: Blending ingenuity with technical depth to tackle unique challanges-no two client needs are ever handled the same.
 - **Productivity & Management**: Streamlining product development and management with technology-driven strategies
+
+## 📣 Tagline
+**Custom Tools . Smarter Pipeliens . Scalable Systems**
+**Tools . Coding . Automation**
 
 ---
 
@@ -39,5 +42,5 @@ Below is the list of currently available tools with quick access to their docume
 > Check back for updates regurlarly!
 
 **Need help or want to suggest a tool?**  
-Email :- codesutrahub@gmail.com
+Email :- codiflowsystems@gmail.com
 
