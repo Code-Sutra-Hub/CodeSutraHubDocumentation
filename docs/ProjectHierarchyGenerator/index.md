@@ -46,28 +46,6 @@
 
 ---
 
-## 🔐 Licensing
+**Portfolio link** - https://github.com/thecodeshastra
 
-This tool is commercially licensed:
-
-| License Type       | Access        | Duration | Notes                         |
-|--------------------|---------------|----------|-------------------------------|
-| 🔓 Full License      | Source Code | Lifetime | One-time purchase             |
-| 🔐 Encrypted License | Encrypted   | Lifetime | One-time purchase             |
-
-Contact for pricing or enterprise licensing:  
-📧 **codiflowsystems@gmail.com**
-
----
-
-## 🙋 Contact & Demo Access
-
-Interested in testing the tool or viewing source?  
-📧 Reach out to: **codiflowsystems@gmail.com**
-
----
-
-## 🧾 License Summary
-
-This repository is a **private portfolio preview**.  
-Use, redistribution, and modification are prohibited without a valid commercial license.
+### Note this is just for technical documentation presentation, **NOT FOR SALE**

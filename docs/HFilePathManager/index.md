@@ -1,4 +1,7 @@
-A powerful and extensible **file path auditing and management tool** for Houdini artists and technical directors. 
+Managing external file dependencies in Houdini is complex, error-prone, and can derail project delivery. Our tool solves this by providing comprehensive path auditing, dependency management, and archival features, ensuring every Houdini project remains organized, portable, and production-ready.
+
+It is a powerful and extensible **file path auditing and management tool** for Houdini artists and technical directors. 
+
 This tool helps you organize, verify, and archive all external file references in a Houdini project with ease.
 
 ---
@@ -59,21 +62,7 @@ This tool helps you organize, verify, and archive all external file references i
 
 ---
 
-## 🔐 Licensing
-
-This tool is commercially licensed:
-
-| License Type         | Access        | Duration | Notes                         |
-|----------------------|---------------|----------|-------------------------------|
-| 🔓 Full License      | Source Code   | Lifetime | One-time purchase             |
-| 🔐 Encrypted License | Encrypted UI  | 1 Year   | Requires renewal to continue  |
-
-Contact for pricing or enterprise licensing:  
-📧 **codiflowsystems@gmail.com**
-
----
-
-## 🧠 Internals (for License Holders)
+## 🧠 Internals
 
 - PySide2-based UI using Houdini’s Python API
 - File references collected using recursive `hou.node("/")` traversal
@@ -83,14 +72,6 @@ Contact for pricing or enterprise licensing:
 
 ---
 
-## 🙋 Contact & Demo Access
+**Portfolio link** - https://github.com/thecodeshastra
 
-Interested in testing the tool or viewing source?  
-📧 Reach out to: **codiflowsystems@gmail.com**
-
----
-
-## 🧾 License Summary
-
-This repository is a **private portfolio preview**.  
-Use, redistribution, and modification are prohibited without a valid commercial license.
+### Note this is just for technical documentation presentation, **NOT FOR SALE**

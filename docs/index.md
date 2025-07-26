@@ -1,29 +1,31 @@
-## Codi Flow Systems
+![background](https://github.com/user-attachments/assets/9bda9a0c-2f1d-4644-9e37-ebb696205656)
 
-Welcome to **CodiFlowSystems**, where we specialize in creating intelligent, tailor-made solutions currently for the Animation, VFX, and IT industries. We are your dedicated partner in tool development, pipeline automation, and software tool-dev API, transforming complex challenges into seamless, elegant workflows. By blending creative problem-solving with deep technical expertise, we build the systems and integrations you need to innovate faster and achieve operational excellence.
+Hello! I’m **Mahendra Pawar**, **Lighting Technical Supervisor** with over 7 years of experience at DNEG, one of the world’s leading visual effects studios.
+I'm a technical problem solver passionate about tool development, workflow automation, and creative pipeline enhancements. I specialize in building scalable solutions that empower teams and streamline challenging processes.
 
-## 🌟 Our Mission
-To develop smart, future-ready tools by:
-- Empower creative and technical teams by delivering tailor-made tools and intelligent workflow automation.
-- Leveraging software APIs for scalable solutions / tool development
-- Solve unique challenges with elegant, scalable, and reliable technology solutions.
-- Enhance productivity in Animation, VFX, and IT industries through cutting-edge automation.
-- Lead with creativity and technical excellence to transform complex processes into simple, impactful workflows.
+### 🚀 What I Do
+- **Tool Development**:
+    - Design and deploy automation tools using Python and APIs for platforms like Houdini/Solaris, making day-to-day work more efficient for artists and technical teams.
+- **Workflow Automation**:
+    - Constantly seek ways to simplify and optimize creative and technical pipelines—reducing manual steps, minimizing errors, and scaling productivity.
+- **Technical Support/Problem-solving**:
+    - Serve as a go-to resource for diagnosing and resolving complex technical issues across active shows and projects, ensuring smooth deliveries and happy teams.
 
-## 💡 What We Do
-- **Tool Development**: Building reusable tools and frameworks for smarter workflows
-- **Automated Workflows**: Designing and deploying automated processes to eliminate repetitive tasks
-- **Software tool-dev using APIs**: Connecting software products and services for end-to-end solutions
-- **Creative + Technical Problem-Solving**: Blending ingenuity with technical depth to tackle unique challanges-no two client needs are ever handled the same.
-- **Productivity & Management**: Streamlining product development and management with technology-driven strategies
+### 💡 Current Interests
+- Automating creative and technical workflows
+- Exploring API integrations for next-generation pipeline tools
+- Building robust systems for the animation, VFX and IT industry
+
+### 🌱 Goals & Aspirations
+- Expand my expertise from animation into the broader IT sector.
+- Grow into a product manager and developer role, using AI to build smarter solutions and products.
 
 ## 📣 Tagline
-**Custom Tools . Smarter Pipeliens . Scalable Systems**
-**Tools . Coding . Automation**
+**Custom Tools . Smarter Pipeliens . Scalable Systems . Coding . Automation**
 
 ---
 
-## 🧰 Available Tools
+## 🧰 Available Tools in portfolio
 
 Below is the list of currently available tools with quick access to their documentation. _Click any tool to view its usage guides and setup instructions_:
 
@@ -41,6 +43,5 @@ Below is the list of currently available tools with quick access to their docume
 > **This documentation hub is always expanding.**  
 > Check back for updates regurlarly!
 
-**Need help or want to suggest a tool?**  
-Email :- codiflowsystems@gmail.com
+### Note - All these tools are **NOT FOR SALE** its just for portfolio presentation and documentation.
 
