@@ -1,0 +1,50 @@
+{
+    "file0": {
+        "node": "/stage/sublayer1",
+        "node_type": "stage",
+        "parm": "<hou.Parm filepath1 in /stage/sublayer1>",
+        "file": [
+            "/run/media/rudra/6E04693F12E8E9B1/storage_personal/Archived_archieving_test/Geometry/RenderMan_SciTech_Art_Challenge_Asset.usd"
+        ],
+        "type": "Geometry",
+        "file_size": "3.24 GB",
+        "selected": true,
+        "relative_path": "$HIP/Geometry/RenderMan_SciTech_Art_Challenge_Asset.usd"
+    },
+    "file1": {
+        "node": "/stage/sublayer1",
+        "node_type": "stage",
+        "parm": "<hou.Parm filepath2 in /stage/sublayer1>",
+        "file": [
+            "/run/media/rudra/6E04693F12E8E9B1/storage_personal/Archived_archieving_test/Geometry/Lost_Things_Art_Challenge_Asset.usd"
+        ],
+        "type": "Geometry",
+        "file_size": "84.20 MB",
+        "selected": true,
+        "relative_path": "$HIP/Geometry/Lost_Things_Art_Challenge_Asset.usd"
+    },
+    "file2": {
+        "node": "/stage/sublayer1",
+        "node_type": "stage",
+        "parm": "<hou.Parm filepath3 in /stage/sublayer1>",
+        "file": [
+            "/run/media/rudra/6E04693F12E8E9B1/storage_personal/Archived_archieving_test/Geometry/lyr_geo_ldev_reference_props_v001.usd"
+        ],
+        "type": "Geometry",
+        "file_size": "18.23 MB",
+        "selected": true,
+        "relative_path": "$HIP/Geometry/lyr_geo_ldev_reference_props_v001.usd"
+    },
+    "file3": {
+        "node": "/stage/sublayer1",
+        "node_type": "stage",
+        "parm": "<hou.Parm filepath4 in /stage/sublayer1>",
+        "file": [
+            "/run/media/rudra/6E04693F12E8E9B1/storage_personal/Archived_archieving_test/Geometry/lyr_geo_ldev_shading_props_v001.usd"
+        ],
+        "type": "Geometry",
+        "file_size": "12.51 MB",
+        "selected": true,
+        "relative_path": "$HIP/Geometry/lyr_geo_ldev_shading_props_v001.usd"
+    }
+}
